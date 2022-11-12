@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SwiftUI
 - 📫 You can reach me here on GitHub :)
 
-<a rel="me" href="https://iosdev.space/@we7ee">Mastodon: @we7ee@iosdev.space</a>
+<a rel="me" href="https://iosdev.space/@we7ee">Mastodon: we7ee</a>
 
 <!---
 we7ee/we7ee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
